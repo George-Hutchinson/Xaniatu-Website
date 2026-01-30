@@ -28,12 +28,16 @@ h1 {
 }
 p {
     margin: 16px;
+    font-size: 1.5rem;
 }
 .tiny {
     font-size: 1rem;
 }
+.medium {
+    font-size: 2rem;
+}
 .HUGE {
-    font-size: 6rem;
+    font-size: 8rem;
 }
 .red-vs-blue-iframe {
     left: 0;
